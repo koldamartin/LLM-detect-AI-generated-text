@@ -8,3 +8,5 @@ I use a Tensorflow/Keras to fine tune a basic DistilBERT model from HuggingFace.
 The model is then deployed and hosted on HuggingFace Spaces via a Gradio interface.
 
 Try web application here:  https://huggingface.co/spaces/Wintersmith/Detect_AI_generated_text
+
+![gradio app](https://github.com/koldamartin/LLM-detect-AI-generated-text/assets/68967537/09b576f5-ca01-4b5f-ac07-630e72c4bffc)
